@@ -1,0 +1,153 @@
+
+body{
+    background-color: rgb(91, 88, 88);
+}
+
+.blocka{
+   position: relative;
+   background-color:#909090;
+   width:1560px;
+   height:260px;
+   margin:20px;
+   border-radius: 15px;
+   box-shadow: 7px 7px 4px 3px rgba(64, 62, 62, 0.3);   
+}
+
+.blockb{
+    float: left;
+    position: relative;
+    margin-left: 40px;
+    margin-right: 20px;
+    width: 200px;
+    height : 450px;
+    background-color:#909090;   
+    border-radius: 15px;
+    box-shadow: 7px 7px 4px 3px rgba(0, 0, 0, 0.3);
+}
+.blockc{
+    float: left;
+    position: relative;
+    margin-left: 10px;
+    margin-right: 10px;
+    width : 1054px;
+    height : 606px;
+    background-color:#909090;
+    border-radius: 15px;
+    box-shadow: 7px 7px 4px 3px rgba(0, 0, 0, 0.3);
+ }
+.blockd{
+    float: left;
+    position: relative;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 200px;
+    height: 450px;
+    background-color:#909090;
+    border-radius: 15px;
+    box-shadow: 7px 7px 4px 3px rgba(0, 0, 0, 0.3);
+ }
+.blocke{
+    position: absolute;
+    bottom : -110px;
+    left : -200px;
+    padding : 10px;
+    text-align:left;
+    letter-spacing: 1px;
+    width: 450px;
+    height: 200px;
+    background-color:#88FF89;
+    border-radius: 15px;
+    box-shadow: 7px 7px 4px 3px rgba(0, 0, 0, 0.3);
+}
+#ordi{
+    text-shadow: 2px 2px 8px #FF0000;
+}
+#entrez{
+    font-weight: bold;
+    font-size: 20pt;
+}
+#myinput{
+    width: 350px;
+}
+#doft42{
+    position: absolute;
+    left : 10px;
+    top : 10px;
+}
+
+#loupe{
+    position: absolute;
+    width: 20%;   
+    right : 30px;
+    bottom : -10px;
+}
+
+#close{
+    position: absolute;
+    width: 20px;
+    bottom : 5px;
+    right : 5px;   
+}
+
+#reload{
+    position: absolute;
+    width: 20px;
+    top : 5px;
+    right : 5px;  
+}
+
+#cluster{
+    position: absolute;
+    left : 15px;
+    top : 15px;
+}
+
+#arrow{
+    margin-left: 60px;
+    margin-top: 20px;   
+    width: 60px;
+}
+
+#main{
+    margin-left: 60px;
+    margin-top: 20px;   
+    width: 60px;
+}
+
+#oeil{
+    border-style: solid;
+    color:red;
+    margin-left: 60px;
+    margin-top: 20px;
+    width: 60px;
+}
+
+#outil{
+    margin-left: 60px;
+    margin-top: 20px;
+    width: 60px;
+}
+
+#chat-icon{
+    margin-left: 60px;
+    margin-top: 20px;
+    width: 60px;
+}
+#book{
+    margin-left: 60px;
+    margin-top: 20px;
+    width: 100px;
+}
+#towel{
+    margin-left: 60px;
+    margin-top: 20px;
+    width: 100px;
+}
+#brick{
+    margin-left: 20px;
+    margin-right:20px;
+    width: 80%;
+    height: 80px;
+    background-image: url("resources/brick.jpg");
+}
+
